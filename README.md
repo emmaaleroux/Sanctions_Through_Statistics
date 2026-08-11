@@ -199,3 +199,13 @@ PEP and sanctions datasets differ in coverage and data quality across countries.
 Similarly, differences in sanctions exposure may reflect geopolitical and institutional factors rather than differences in underlying behaviour.
 
 ---
+
+---
+
+## License
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
+Copyright (c) 2026 **Team PompeuFarrers** (Emma Leroux, Guillem Arévalo, Pep Margarit, Mikel Carbonés, Livia Fernández, Natalia Grandas).
+
+> **Data License Note:** Data sourced from OpenSanctions is subject to the terms and commercial licensing terms of [OpenSanctions](https://www.opensanctions.org/licensing/).
