@@ -76,7 +76,7 @@ The results show substantial differences in the proportion of PEPs appearing in 
 | 🇺🇸 United States | 58,307 | 1,828 | 3.14% |
 | 🇨🇳 China | 13,276 | 882 | 6.64% |
 | 🇷🇺 Russia | 13,950 | 3,383 | 24.25% |
-| 🇬🇧 United Kingdom | 7,038 | 70 | 5.48% |
+| 🇬🇧 United Kingdom | 7,038 | 70 | 0.99% |
 | 🇩🇪 Germany | 9,248 | 25 | 0.37% |
 | 🇰🇷 South Korea | 2,465 | 7 | 0.28% |
 | 🇫🇷 France | 59,698 | 65 | 0.10% |
